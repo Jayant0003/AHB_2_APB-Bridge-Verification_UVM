@@ -1,5 +1,3 @@
-#Makefile for UVM Testbench - Lab 10
-
 # SIMULATOR = Questa for Mentor's Questasim
 # SIMULATOR = VCS for Synopsys's VCS
 
